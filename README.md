@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Abdullah-lachi
 - 👀 I’m interested in programing desgining
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on youtube
-- 📫 How to reach me facebook
+- 📫 How to reach me
